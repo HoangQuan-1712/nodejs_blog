@@ -1,0 +1,14 @@
+các lệnh git cơ bản
+
+git init
+git clone
+git pull
+
+
+git add và git adđ .
+git commit -m ""
+git push
+
+
+git log
+git log --decorate --graph --oneline
