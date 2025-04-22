@@ -12,3 +12,9 @@ git push
 
 git log
 git log --decorate --graph --oneline
+
+
+
+git add .
+git commit -m ""
+git push origin main
